@@ -1,0 +1,25 @@
+{
+  "name": "activeadmin_dynamic_fields",
+  "version": "0.5.3",
+  "description": "Dynamic fields in ActiveAdmin",
+  "main": "app/assets/javascripts/activeadmin/dynamic_fields.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "app/assets/javascripts/activeadmin/dynamic_fields.js",
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blocknotes/activeadmin_dynamic_fields.git"
+  },
+  "author": "Derek Kniffin, Mattia Roccoberton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enginearch/activeadmin_dynamic_fields/issues"
+  },
+  "homepage": "https://github.com/enginearch/activeadmin_dynamic_fields#readme"
+}
