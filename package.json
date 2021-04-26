@@ -7,7 +7,7 @@
     "lib": "lib"
   },
   "files": [
-    "app/assets/javascripts/activeadmin/dynamic_fields.js",
+    "app/assets/javascripts/activeadmin/dynamic_fields.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
